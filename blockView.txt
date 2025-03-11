@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Checksum: 
+! Version: 
+! Title: EasyList Portuguese
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+!
+notranslate
+credential_picker_container
+https://accounts.google.com/gsi/iframe/select?client_id=*
+*adsystem*
+*pushnews*
+*.Pushnews.online*
