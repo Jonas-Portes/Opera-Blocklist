@@ -11,5 +11,5 @@ Essa é uma lista de itens para o navegador (opera GX)[] usar no bloqueador de a
 No Opera GX, acesse a guia de "Proteção de privacidade" abra o "Bloquear Anúncios - Gerenciar listas", no final da pagina em "Listas personalizadas", clique em adicionar e cole o seguinte link
 
 ```
-https://raw.githubusercontent.com/Jonas-Portes/Opera-Blocklistrefs/heads/main/blockView.txt
+https://raw.githubusercontent.com/Jonas-Portes/Opera-Blocklist/refs/heads/main/blockView.txt
 ```
