@@ -15,9 +15,8 @@ https://raw.githubusercontent.com/Jonas-Portes/Opera-Blocklist/main/blockView.tx
 ```
 
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="OPJqPKp" data-pen-title="Aula 1 - Conversor de moedas" data-user="Jonas-portes" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/Jonas-portes/pen/OPJqPKp">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Aula 1 - Conversor de moedas" src="https://codepen.io/Jonas-portes/embed/OPJqPKp?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/Jonas-portes/pen/OPJqPKp">
   Aula 1 - Conversor de moedas</a> by Jonas (<a href="https://codepen.io/Jonas-portes">@Jonas-portes</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://public.codepenassets.com/embed/index.js"></script>
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
